@@ -4,21 +4,20 @@
 
 ## List of my Python developer skills and libraries in use. 
 ㅡ
-### Skills
+### Web UI testing
+- Selenium Web Driver with Python
+- Page Objec Model design pattern
+- pytest
+- behave (BDD)
+- data driven approach 
+- testing several applications 
+- different mdoe of testing depenend of user
+- 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi. Sed in consequat mi. Sed pulvinar lacinia felis eu finibus.
+
 ㅡ
 Experience
 
-Company Name / Job Title
-MONTH 20XX - PRESENT,  LOCATION
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi. Sed in consequat mi. Sed in consequat mi, sed pulvinar lacinia felis eu finibus.
-Company Name / Job Title
-MONTH 20XX - MONTH 20XX,  LOCATION
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi. Sed in consequat mi. 
-Company Name / Job Title
-MONTH 20XX - MONTH 20XX,  LOCATION
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi. Sed in consequat mi. Sed pulvinar lacinia felis eu finibus. 
 
 
 ㅡ
@@ -40,8 +39,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi
 ㅡ
 ### Additional testing frameworks and languages
 
-- CucumberJS
-- apickli: CucumberJS with API testing
+- CucumberJS with WebDriverJS BDD [framework](https://github.com/john-doherty/selenium-cucumber-js)
+- CucumberJS with API testing, BDD, [apickli](https://www.npmjs.com/package/apickli): 
 - NodeJS
 - Mocha, Chai
 
@@ -62,6 +61,14 @@ PyCharm, VS code, WebStorm, Visual Studio
 
 - Git and GitLab daily use. 
 - Experience with Bitbucket. 
+
+ㅡ
+### Operation systems
+
+- MacOS 
+- Windows
+- Linux
+- Shell with basic scripting 
 
 ㅡ
 
