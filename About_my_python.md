@@ -1,10 +1,10 @@
 
 
 
-## Oleg Bushmelev
-## List of Python skills and libraries in use, developer skills
+
+## List of my Python developer skills and libraries in use. 
 ㅡ
-Skills
+### Skills
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi. Sed in consequat mi. Sed pulvinar lacinia felis eu finibus.
 ㅡ
@@ -19,38 +19,50 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi
 Company Name / Job Title
 MONTH 20XX - MONTH 20XX,  LOCATION
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi. Sed in consequat mi. Sed pulvinar lacinia felis eu finibus. 
-ㅡ
-Education
-
-School Name / Degree
-MONTH 20XX - MONTH 20XX,  LOCATION
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore.
-School Name / Degree
-MONTH 20XX - MONTH 20XX,  LOCATION
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore.
 
 
 ㅡ
-Debugging
+### API Debugging and Testing
 
-pdb library  with breakpoint() method, IPBD with CLI and breakpoint assigning.
-
-
-ㅡ
-IDE
-
-Git daily use. Experience with Github, Gitlub, Bitbucket. 
-
+- Postman with JavaScript: coding of authentication, saving key as value, test cases
+- Curl, HTTPie
+- pytest with requests library
+- behave (BDD) with requests library
 
 ㅡ
-Version control systems
-
-Git daily use. Experience with Github, Gitlub, Bitbucket. 
-
+### Data Sciense and Machine Learning
+- pandas, NumPy
+- JupiterNotebook, colab
+- Data reading, cleaning, processing
+- Scipy
+- MathPlotLib, SeaBorn
 
 ㅡ
-Debugging
+### Additional testing frameworks and languages
 
-pdb library  with breakpoint() method, IPBD with CLI and breakpoint assigning.
+- CucumberJS
+- apickli: CucumberJS with API testing
+- NodeJS
+- Mocha, Chai
+
+ㅡ
+### Debugging
+
+- IPBD with CLI and breakpoint assigning
+- pdb library with breakpoint() method
+- debugging via IDE
+
+ㅡ
+### IDE
+
+PyCharm, VS code, WebStorm, Visual Studio 
+
+ㅡ
+### Version control systems
+
+- Git and GitLab daily use. 
+- Experience with Bitbucket. 
+
+ㅡ
 
 
