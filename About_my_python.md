@@ -1,8 +1,8 @@
 
 
 
-Oleg Bushmelev
-List of Python skills and libraries in use, developer skills
+## Oleg Bushmelev
+## List of Python skills and libraries in use, developer skills
 ㅡ
 Skills
 
