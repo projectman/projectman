@@ -7,12 +7,15 @@
 ### Web UI testing
 - Selenium Web Driver with Python
 - Page Objec Model design pattern
-- pytest
+- pytest as test management framework
 - behave (BDD)
-- data driven approach 
-- testing several applications 
-- different mdoe of testing depenend of user
-- 
+- Data Driven approach 
+- Testing several applications 
+- Different mdoe of testing described by excel table and dependent of user
+- Object Oriented Programming (OOP) with pages classes inheritance, polimorphism, abstruction layers, encapsulation. 
+- Create and use decorators
+- Dataclasses
+- [Diagram] of project struncture
 
 
 ㅡ
@@ -27,6 +30,12 @@ Experience
 - Curl, HTTPie
 - pytest with requests library
 - behave (BDD) with requests library
+
+ㅡ
+### Cloud Technology
+- APIGEE Gooble cloud API
+- Kubernetes, GKE
+- AWS, Lambda - basic
 
 ㅡ
 ### Data Sciense and Machine Learning
@@ -49,7 +58,8 @@ Experience
 
 - IPBD with CLI and breakpoint assigning
 - pdb library with breakpoint() method
-- debugging via IDE
+- Debugging via IDE
+- Dhrome browser developer tools
 
 ㅡ
 ### IDE
@@ -71,5 +81,13 @@ PyCharm, VS code, WebStorm, Visual Studio
 - Shell with basic scripting 
 
 ㅡ
+### Development and testing environments
 
+- JIRA
+- Rails
+- TestRails
+- Confluence
+- Bugzilla 
+
+ㅡ
 
