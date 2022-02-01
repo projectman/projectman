@@ -15,13 +15,27 @@
 - Object Oriented Programming (OOP) with pages classes inheritance, polimorphism, abstruction layers, encapsulation. 
 - Create and use decorators
 - Dataclasses
-- [Diagram] of project struncture
+- [Diagram] of project structure
+- Grid and several tred execution
+- Cookies collectio from different users parsing and swap seaching [Diagram]
+- Log collection standard process passing and failed tests report
+- Screenshot of failed test cases
 
 
 ㅡ
-Experience
+### Python scripts
 
+- SSH connection with paramiko library, IOT device files parsing and data comparison
+- requests library for REST API connection and response validation
+- MS SQL connection, reading data and compare with expected data
 
+ㅡ
+### Additional testing frameworks and languages
+
+- CucumberJS with WebDriverJS BDD [framework](https://github.com/john-doherty/selenium-cucumber-js)
+- CucumberJS with API testing, BDD, [apickli](https://www.npmjs.com/package/apickli): 
+- NodeJS
+- Mocha, Chai
 
 ㅡ
 ### API Debugging and Testing
@@ -44,14 +58,6 @@ Experience
 - Data reading, cleaning, processing
 - Scipy
 - MathPlotLib, SeaBorn
-
-ㅡ
-### Additional testing frameworks and languages
-
-- CucumberJS with WebDriverJS BDD [framework](https://github.com/john-doherty/selenium-cucumber-js)
-- CucumberJS with API testing, BDD, [apickli](https://www.npmjs.com/package/apickli): 
-- NodeJS
-- Mocha, Chai
 
 ㅡ
 ### Debugging
